@@ -1,4 +1,5 @@
 import React from 'react';
+import Tree from '../TreeView';
 import { storiesOf, action } from '@kadira/storybook';
 
 storiesOf('Button', module)
